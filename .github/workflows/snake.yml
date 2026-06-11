@@ -1,0 +1,35 @@
+name: Generar animacion de contribuciones
+
+# Genera el SVG "snake" que recorre el grafo de contribuciones.
+# Es un asset dinamico: se regenera cada 12 horas y se publica en la rama `output`.
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generar SVG con paleta de marca (Sage & Concrete)
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=3D6B4F&color_dots=E8E6DF,D4E8DA,A8CDB4,6AAB7C,3D6B4F
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
