@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://montiel.uno"><img src="https://img.shields.io/badge/montiel.uno-3D6B4F?style=flat-square&logo=googlechrome&logoColor=white" alt="Sitio" /></a>
-<a href="mailto:samu.montiel11@gmail.com"><img src="https://img.shields.io/badge/Escribirme-3D6B4F?style=flat-square&logo=maildotru&logoColor=white" alt="Correo" /></a>
+<a href="mailto:samuel@montiel.uno"><img src="https://img.shields.io/badge/Escribirme-3D6B4F?style=flat-square&logo=maildotru&logoColor=white" alt="Correo" /></a>
 <img src="https://img.shields.io/badge/Chile-6AAB7C?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicacion" />
 <img src="https://komarev.com/ghpvc/?username=s4mu31m&label=Visitas&color=3D6B4F&style=flat-square" alt="Visitas" />
 
@@ -83,8 +83,6 @@ Aplicación que reemplaza planillas y carpetas físicas en la gestión de una or
 
 <sub>`Next.js` · `TypeScript` · `PWA` · `API de Gmail` · `PostgreSQL`</sub>
 
-<sub>`PHP` · `JavaScript` · `MySQL` · `Cron`</sub>
-
 ### montiel.uno · Plataforma de presupuestos 2026
 
 Mi sitio profesional y plataforma de presupuestos como Inversiones SCH. Genera cotizaciones con folios, fases y carta Gantt, y permite compartir cada propuesta por un enlace público.
@@ -95,6 +93,7 @@ Mi sitio profesional y plataforma de presupuestos como Inversiones SCH. Genera c
 
 Automatización de cobros y recordatorios para una plataforma de arriendos. Rutinas programadas (cron) que calculan saldos por rango de fechas y envían correos, con manejo de feriados chilenos y alineación a días hábiles. Código refactorizado al estándar PSR-12 y documentado.
 
+<sub>`PHP` · `JavaScript` · `MySQL` · `Cron`</sub>
 
 ---
 
@@ -120,16 +119,21 @@ Formulario web de valoración integrado con un CRM, que evolucionó a lo largo d
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=s4mu31m&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=F5F4F0&title_color=3D6B4F&text_color=2C2C2C&icon_color=6AAB7C&custom_title=Actividad%20en%20GitHub" alt="Estadisticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4mu31m&layout=compact&langs_count=8&hide_border=true&bg_color=F5F4F0&title_color=3D6B4F&text_color=2C2C2C&custom_title=Lenguajes" alt="Lenguajes" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=s4mu31m&show_icons=true&count_private=true&hide_border=true&bg_color=2C2C2C&title_color=6AAB7C&text_color=E8E6DF&icon_color=6AAB7C&custom_title=Actividad%20en%20GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=s4mu31m&show_icons=true&count_private=true&hide_border=true&bg_color=F5F4F0&title_color=3D6B4F&text_color=2C2C2C&icon_color=3D6B4F&custom_title=Actividad%20en%20GitHub" alt="Estadisticas de GitHub" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=s4mu31m&layout=compact&langs_count=8&hide_border=true&bg_color=2C2C2C&title_color=6AAB7C&text_color=E8E6DF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4mu31m&layout=compact&langs_count=8&hide_border=true&bg_color=F5F4F0&title_color=3D6B4F&text_color=2C2C2C&custom_title=Lenguajes" alt="Lenguajes mas usados" />
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=s4mu31m&hide_border=true&background=F5F4F0&stroke=D8D4CB&ring=3D6B4F&fire=3D6B4F&currStreakNum=2C2C2C&sideNums=2C2C2C&currStreakLabel=3D6B4F&sideLabels=767676&dates=767676" alt="Constancia" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=s4mu31m&hide_border=true&bg_color=F5F4F0&color=2C2C2C&title_color=3D6B4F&line=3D6B4F&point=2C2C2C&area=true&area_color=A8CDB4&custom_title=Contribuciones" alt="Contribuciones" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=s4mu31m&hide_border=true&area=true&custom_title=Contribuciones&bg_color=2C2C2C&color=E8E6DF&title_color=6AAB7C&line=6AAB7C&point=E8E6DF&area_color=3D6B4F" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s4mu31m&hide_border=true&area=true&custom_title=Contribuciones&bg_color=F5F4F0&color=2C2C2C&title_color=3D6B4F&line=3D6B4F&point=2C2C2C&area_color=A8CDB4" alt="Contribuciones" width="95%" />
+</picture>
 
 <br/>
 
@@ -142,7 +146,7 @@ Formulario web de valoración integrado con un CRM, que evolucionó a lo largo d
 
 <div align="center">
 
-<a href="mailto:samu.montiel11@gmail.com"><img src="https://img.shields.io/badge/Correo-3D6B4F?style=flat-square&logo=maildotru&logoColor=white" /></a>
+<a href="mailto:samuel@montiel.uno"><img src="https://img.shields.io/badge/Correo-3D6B4F?style=flat-square&logo=maildotru&logoColor=white" /></a>
 <a href="https://montiel.uno"><img src="https://img.shields.io/badge/montiel.uno-3D6B4F?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/s4mu31m"><img src="https://img.shields.io/badge/GitHub-2C2C2C?style=flat-square&logo=github&logoColor=white" /></a>
 
