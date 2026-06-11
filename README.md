@@ -63,11 +63,11 @@ Opero de forma independiente bajo la marca **Inversiones SCH**.
 
 ## Proyectos
 
-Una selección del trabajo en el que vengo participando.
+Una selección del trabajo en el he participando.
 
 ### Logística portuaria 2026
 
-Sistema para la operación de antepuerto. Controla el ingreso y egreso de camiones y contenedores, registra cada movimiento con trazabilidad completa y avisa cuando un contenedor supera su tiempo de permanencia. Resuelve los flujos de despacho y reprogramación, y separa el acceso por rol según el actor (puerto, operador, recepción). Backend en Django con una interfaz en Next.js, en producción.
+Sistema para la operación de Zona de Regulacion de Frecuencia. Controla el ingreso y egreso de camiones y contenedores, registra cada movimiento con trazabilidad completa y avisa cuando un contenedor supera su tiempo de permanencia. Resuelve los flujos de despacho y reprogramación, y separa el acceso por rol según el actor (puerto, operador, recepción). Backend en Django con una interfaz en Next.js, en producción.
 
 <sub>`Django` · `Django Ninja` · `Next.js` · `PostgreSQL` · `Docker`</sub>
 
@@ -115,34 +115,6 @@ Formulario web de valoración integrado con un CRM, que evolucionó a lo largo d
 
 ---
 
-## Actividad
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=s4mu31m&show_icons=true&count_private=true&hide_border=true&bg_color=2C2C2C&title_color=6AAB7C&text_color=E8E6DF&icon_color=6AAB7C&custom_title=Actividad%20en%20GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=s4mu31m&show_icons=true&count_private=true&hide_border=true&bg_color=F5F4F0&title_color=3D6B4F&text_color=2C2C2C&icon_color=3D6B4F&custom_title=Actividad%20en%20GitHub" alt="Estadisticas de GitHub" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=s4mu31m&layout=compact&langs_count=8&hide_border=true&bg_color=2C2C2C&title_color=6AAB7C&text_color=E8E6DF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4mu31m&layout=compact&langs_count=8&hide_border=true&bg_color=F5F4F0&title_color=3D6B4F&text_color=2C2C2C&custom_title=Lenguajes" alt="Lenguajes mas usados" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=s4mu31m&hide_border=true&area=true&custom_title=Contribuciones&bg_color=2C2C2C&color=E8E6DF&title_color=6AAB7C&line=6AAB7C&point=E8E6DF&area_color=3D6B4F" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s4mu31m&hide_border=true&area=true&custom_title=Contribuciones&bg_color=F5F4F0&color=2C2C2C&title_color=3D6B4F&line=3D6B4F&point=2C2C2C&area_color=A8CDB4" alt="Contribuciones" width="95%" />
-</picture>
-
-<br/>
-
-<!-- Animacion generada por GitHub Actions (.github/workflows/snake.yml), paleta de marca -->
-<img src="https://raw.githubusercontent.com/s4mu31m/s4mu31m/output/github-snake.svg" alt="Recorrido de contribuciones" width="95%" />
-
-</div>
-
----
 
 <div align="center">
 
