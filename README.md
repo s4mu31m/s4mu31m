@@ -55,6 +55,9 @@ Opero de forma independiente bajo la marca **Inversiones SCH**.
 <img src="https://img.shields.io/badge/Docker-E8E6DF?style=flat&logo=docker&logoColor=3D6B4F" />
 <img src="https://img.shields.io/badge/Cloudflare-E8E6DF?style=flat&logo=cloudflare&logoColor=3D6B4F" />
 <img src="https://img.shields.io/badge/Render-E8E6DF?style=flat&logo=render&logoColor=3D6B4F" />
+<img src="https://img.shields.io/badge/Despliegue_y_configuracion_VPS-E8E6DF?style=flat&logo=linux&logoColor=3D6B4F" />
+<img src="https://img.shields.io/badge/DigitalOcean-E8E6DF?style=flat&logo=digitalocean&logoColor=3D6B4F" />
+<img src="https://img.shields.io/badge/Vultr-E8E6DF?style=flat&logo=vultr&logoColor=3D6B4F" />
 <img src="https://img.shields.io/badge/Microsoft_Dataverse-E8E6DF?style=flat&logo=microsoft&logoColor=3D6B4F" />
 <img src="https://img.shields.io/badge/Git-E8E6DF?style=flat&logo=git&logoColor=3D6B4F" />
 </p>
